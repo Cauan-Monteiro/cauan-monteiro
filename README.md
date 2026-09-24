@@ -74,7 +74,7 @@ const cauan = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
----
+<!---
 
 ## 📊 Estatísticas gerais
 
@@ -91,12 +91,12 @@ const cauan = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cauan-Monteiro&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20de%20commits%20nos%20%C3%BAltimos%20meses" width="98%" />
 </div>
 
----
+--->
 
 ## 🧮 Composição por linguagem
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauan-Monteiro&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Distribui%C3%A7%C3%A3o%20de%20linguagens" height="220em" />
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauan-Monteiro&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Distribui%C3%A7%C3%A3o%20de%20linguagens" height="220em" /> -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cauan-Monteiro&theme=tokyonight" height="220em" />
 </div>
 
