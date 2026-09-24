@@ -66,7 +66,7 @@ const cauan = {
 </p>
 
 ---
-
+<!--
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -94,7 +94,7 @@ const cauan = {
   <img src="https://raw.githubusercontent.com/Cauan-Monteiro/Cauan-Monteiro/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
 
-<!--
+
   Para ativar o gif da cobrinha acima, crie o workflow em .github/workflows/snake.yml
   usando a action Platane/snk. Enquanto não estiver configurado, a imagem pode aparecer quebrada.
 -->
