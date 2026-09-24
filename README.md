@@ -147,7 +147,7 @@ const cauan = {
 > 🌱 **`SpringProject`** / **`demo-daoJDBC`** — estudos de Java corporativo, Spring e acesso a dados via JDBC/DAO.
 > ⚽ **`app-futdequinta`** — aplicação TypeScript para organização de partidas de futebol.
 
----
+<!---
 
 ## 🏆 Troféus
 
@@ -155,7 +155,7 @@ const cauan = {
   <img src="https://github-profile-trophy.vercel.app/?username=Cauan-Monteiro&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
 </div>
 
----
+--->
 
 ## 📫 Como me encontrar
 
